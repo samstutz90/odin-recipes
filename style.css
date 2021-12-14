@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+    color: lightgreen;
+    
+}
+h1{
+    text-align: center;
+    font-family: Tahoma, sans-serif;
+    font-weight: 900;
+}    
+
+h5{
+    text-decoration: none;
+    color: lightblue;
+    font-type:Tahoma, sans-serif;
+    font-size: 22px;
+    text-align: center;
+    margin-top:5px;
+    margin-bottom:5px;
+    
+   
+
+}
+.odin {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+  }
+  .carrots {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+  }
+  .okra {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+  }
+  .wings {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: auto;
+  }
+
+  .wing{
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .carrot{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.roasted-okra{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
